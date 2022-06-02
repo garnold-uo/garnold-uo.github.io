@@ -2,7 +2,6 @@
 
 **CIT 281 (Spring 22)**
 ```markdown
-Table of Contents
 
 Project 1: Introduction to CLI
 - Lab 1 (Create first JS/node.js project)
