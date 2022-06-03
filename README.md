@@ -1,6 +1,6 @@
 # Welcome to Garrett Arnold's Portfolio
 
-**CIT 281 (Spring 22)**
+**CIT 281 (Web Application Development I)**
 ```markdown
 
 Project 1: Introduction to CLI
