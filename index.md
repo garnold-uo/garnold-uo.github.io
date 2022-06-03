@@ -3,12 +3,12 @@
 <ul>
     <li><strong><a href="https://github.com/garnold-uo/cit-p1">Project 1: Introduction to CLI</a></strong></li>
         <dl><a href="https://github.com/garnold-uo/cit281-lab1">    -   Lab 1 (Create first JS/node.js project)</a></dl>
-    <li><strong>Project 2: CLI and VSCode</strong></li>
+     <li><strong><a href="https://github.com/garnold-uo/cit281-p2">Project 2: CLI and VSCode</a></strong></li>
         <dl>    -   Lab 2 (Practice using CLI and git)</dl>
-    <li><strong>Project 3: Fastify coinage server</strong></li>
+    <li><strong><a href="https://github.com/garnold-uo/cit281-p3">Project 3: Fastify coinage server</a></strong></li>    
         <dl>    -   Lab 3 (Object deconstructing, arror functions, module.exports)</dl>
         <dl>    -   Lab 4 (Create fastify server)</dl>
-    <li><strong>Project 4: Fastify question/answer server</strong></li>
+    <li><strong><a href="https://github.com/garnold-uo/cit281-p4">Project 4: Fastify question/answer server</a></strong></li>    
         <dl>    -   Lab 5 (Postman)</dl>
     <li><strong>Project 6: Objects and class handeling</strong></li>
         <dl>    -   Lab 6 (Object and error handeling)</dl>
