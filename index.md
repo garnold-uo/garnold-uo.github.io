@@ -1,3 +1,6 @@
+<img src="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" alt="Data Image">
+
+
 <h1>Garrett Arnold's Portfolio</h1>
 <h3>CIT 281 - Web Application Development I</h3>
 <ul>
