@@ -15,5 +15,5 @@
         <dl><a href="https://github.com/garnold-uo/cit281-lab7">    -   Lab 7 (Introduction to GitHub)</a></dl>
     <li><strong><a href="https://github.com/garnold-uo/cit281-p7">Project 7: GitHub Portfolio</a></strong></li>  
         <dl><a href="https://github.com/garnold-uo/cit281-lab8">    -   Lab 8 (.then() and .catch() handeling)</a></dl>
-        <dl><a href="https://github.com/garnold-uo/cit281-lab9">    -   Lab 8 (GitHub Release Based Workflow)</a></dl>    
+        <dl><a href="https://github.com/garnold-uo/cit281-lab9">    -   Lab 9 (GitHub Release Based Workflow)</a></dl>    
 </ul>
