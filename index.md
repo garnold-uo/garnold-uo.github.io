@@ -13,7 +13,7 @@
     <li><strong>Project 6: Objects and class handeling</strong></li>
         <dl>    -   Lab 6 (Object and error handeling)</dl>
         <dl>    -   Lab 7 (Introduction to GitHub)</dl>
-    <li><strong>Project 7: GitHub Portfolio</li></strong>
+    <li><strong>Project 7: GitHub Portfolio</strong></li>
         <dl>    -   Lab 8 (.then() and .catch() handeling)</dl>
         <dl>    -   Lab 9 (GitHub Release Based Workflow)</dl>
 </ul>
