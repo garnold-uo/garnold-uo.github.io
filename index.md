@@ -2,7 +2,7 @@
 <h3>CIT 281 - Web Application Development I</h3>
 <ul>
     <li><strong>Project 1: Introduction to CLI</strong></li>
-        <dl><a href="https://garnold-uo.github.io/cit281-lab1/">    -   Lab 1 (Create first JS/node.js project)</a></dl>
+        <dl><a href="https://github.com/garnold-uo/cit281-lab1">    -   Lab 1 (Create first JS/node.js project)</a></dl>
     <li><strong>Project 2: CLI and VSCode</strong></li>
         <dl>    -   Lab 2 (Practice using CLI and git)</dl>
     <li><strong>Project 3: Fastify coinage server</strong></li>
